@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC8970C-DAA7-45AC-84C2-030774A44E14}|Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test.csproj|d:\\\u043C\u043E\u0435\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u043C\u0438\u0441\u043F\u043A\u043F\\tyuiu.savchenkoei.lab2.review\\lab2\\tyuiu.savchenkoei.lab2.review.v9.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC8970C-DAA7-45AC-84C2-030774A44E14}|Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test.csproj|solutionrelative:lab2\\tyuiu.savchenkoei.lab2.review.v9.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A76062D-5BE2-4A8D-9012-F1F4850CC4BC}|Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib.csproj|d:\\\u043C\u043E\u0435\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u043C\u0438\u0441\u043F\u043A\u043F\\tyuiu.savchenkoei.lab2.review\\lab2\\tyuiu.savchenkoei.lab2.review.v9.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A76062D-5BE2-4A8D-9012-F1F4850CC4BC}|Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib.csproj|solutionrelative:lab2\\tyuiu.savchenkoei.lab2.review.v9.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562B2812-9130-484C-BA07-3BED0F2A7D9C}|Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9.csproj|d:\\\u043C\u043E\u0435\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u043C\u0438\u0441\u043F\u043A\u043F\\tyuiu.savchenkoei.lab2.review\\lab2\\tyuiu.savchenkoei.lab2.taskreview.v9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562B2812-9130-484C-BA07-3BED0F2A7D9C}|Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9.csproj|solutionrelative:lab2\\tyuiu.savchenkoei.lab2.taskreview.v9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\DataServiceTest.cs",
+              "ToolTip": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\DataServiceTest.cs",
+              "RelativeToolTip": "Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Test\\DataServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:45:09.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\DataService.cs",
+              "ToolTip": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\DataService.cs",
+              "RelativeToolTip": "Lab2\\Tyuiu.SavchenkoEI.Lab2.Review.V9.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:44:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Program.cs",
+              "ToolTip": "D:\\\u041C\u041E\u0415\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\\\u043F\u0443\u043F\u0443\u043F\u0443\\3 \u041C\u0438\u0421\u041F\u041A\u041F\\Tyuiu.SavchenkoEI.Lab2.Review\\Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Program.cs",
+              "RelativeToolTip": "Lab2\\Tyuiu.SavchenkoEI.Lab2.TaskReview.V9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:43:37.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
